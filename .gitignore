@@ -1,0 +1,4 @@
+*.class
+.idea
+contest.iml
+target
