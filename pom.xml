@@ -15,6 +15,7 @@
 
     <modules>
         <module>test_example</module>
+        <module>tfna_2021_001</module>
     </modules>
 
 
